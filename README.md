@@ -13,6 +13,10 @@ Areas of expertise:
 - Data quality, monitoring and automation
 - AI-assisted development and engineering productivity
 
-Currently building data-driven products and exploring
-the intersection of company intelligence, geospatial
-data and AI.
+## Stack
+
+Python · SQL · dbt · DuckDB · dlt · PostgreSQL · Azure · Docker · GitHub Actions
+
+## Contact
+
+eimantasbendorius@gmail.com
